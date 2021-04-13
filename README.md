@@ -5,4 +5,9 @@ To have a list of all the players using onesync infinity on fivem!
 You will need minimal knowledge to understand the use of this script.
 You are not allowed to rename anything!
 Only works with ESX
-Made by ayznnn # 3964 for the WaveShield community :heart:***
+Made by ayznnn#3964 for the WaveShield community :heart:***
+
+#Our other work
+ - The Best FiveM Anticheat
+ - http://www.waveshield.xyz/
+ - https://discord.com/invite/CXZwrZx
