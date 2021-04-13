@@ -7,7 +7,7 @@ You are not allowed to rename anything!
 Only works with ESX
 Made by ayznnn#3964 for the WaveShield community :heart:***
 
-#Our other work
+# Our other work
  - The Best FiveM Anticheat
  - http://www.waveshield.xyz/
  - https://discord.com/invite/CXZwrZx
